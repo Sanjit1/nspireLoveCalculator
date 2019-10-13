@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/Sanjit1/nspireLoveCalculator)
 ![Size](https://img.shields.io/github/repo-size/Sanjit1/nspireLoveCalculator)
 ![Latest Release](https://img.shields.io/github/v/release/Sanjit1/nspireLoveCalculator)
-![Commits](https://img.shields.io/github/commit-activity/m/Sanjit1/nspireLoveCalculator)
+![Commits](https://img.shields.io/github/commit-activity/y/Sanjit1/nspireLoveCalculator)
 
 
 Love Calculator is a TI-Nspire application, made with Lua, to calculate the change that your love loves you back.
