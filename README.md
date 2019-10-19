@@ -8,15 +8,15 @@
 ![Commits](https://img.shields.io/github/commit-activity/y/Sanjit1/nspireLoveCalculator)
 
 
-Love Calculator is a TI-Nspire application, made with Lua, to calculate the change that your love loves you back.
+Love Calculator is a TI-Nspire application, made with Lua, to calculate the chance that your love loves you back.
 
 ## Downloading
-To download the `.tns` file go to the [release]() section.
+To download the `.tns` file go to the [release](https://github.com/Sanjit1/nspireLoveCalculator/releases) section.
 
 ## Contributiong/Editing.
 To edit the program you could do 2 things:
 - Open the `.tns` file on the student software, go to `Insert`->`Script Editor`-> `Edit Script`.
-- From Scratc:
+- From Scratch:
 	-  `File`->`New TI-Nspire Document`.
 	- `Insert`->`Script Editor`->`Insert Script`
 	- Name the script something useful.
